@@ -1,0 +1,6 @@
+D:\Development\C#\Kata\Katas\Katas\bin\Debug\Katas.exe.config
+D:\Development\C#\Kata\Katas\Katas\bin\Debug\Katas.exe
+D:\Development\C#\Kata\Katas\Katas\bin\Debug\Katas.pdb
+D:\Development\C#\Kata\Katas\Katas\obj\Debug\Katas.csprojResolveAssemblyReference.cache
+D:\Development\C#\Kata\Katas\Katas\obj\Debug\Katas.exe
+D:\Development\C#\Kata\Katas\Katas\obj\Debug\Katas.pdb
